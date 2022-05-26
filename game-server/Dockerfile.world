@@ -1,0 +1,6 @@
+FROM debian:bullseye
+
+WORKDIR /gameserver
+COPY bin/worldserver /gameserver/
+
+ENTRYPOINT ["/gameserver/worldserver"]
