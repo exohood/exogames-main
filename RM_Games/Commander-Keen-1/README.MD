@@ -5,7 +5,9 @@ Commander Keen 1 Open Source
 ==============================
 
 Author: JJ Uzumaki <jjuzumaki@proton.me>
+
 Version: 1.0
+
 Website: https://exohood.com/exogames
 
 
