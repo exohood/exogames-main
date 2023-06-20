@@ -5,11 +5,11 @@ Open Crystal Caves is an unofficial open source engine reimplementation of the g
 
 Current state of Open Crystal Caves:
 
-![Screenshot 1](https://github.com/exohood/exohood-exogames/blob/main/RM_Games/OpenCrystalCaves/screen1.jpg?raw=true "Screenshot 1")
+![Screenshot 1](https://github.com/exohood/exohood-exogames/blob/main/homebrew/HWCrystalCaves/images/screenshot1.png?raw=true "Screenshot 1")
 
-![Screenshot 2](https://github.com/exohood/exohood-exogames/blob/main/RM_Games/OpenCrystalCaves/screen2.jpg?raw=true "Screenshot 2")
+![Screenshot 2](https://github.com/exohood/exohood-exogames/blob/main/homebrew/HWCrystalCaves/images/screenshot2.png?raw=true "Screenshot 2")
 
-![Screenshot 3](https://github.com/exohood/exohood-exogames/blob/main/RM_Games/OpenCrystalCaves/screen3.jpg?raw=true "Screenshot 3")
+![Screenshot 3](https://github.com/exohood/exohood-exogames/blob/main/homebrew/HWCrystalCaves/images/screenshot3.png?raw=true "Screenshot 3")
 
 Currently the engine can:
 
