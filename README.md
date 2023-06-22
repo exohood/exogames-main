@@ -1,6 +1,6 @@
 ![Title](head_game.jpg)
 
-# Exogames - Open-Source Game Development with Blockchain Integration
+# Exogames is a Open-Source Game Development with Blockchain Integration
 
 Welcome to Exogames, an open-source project dedicated to creating video games compatible with blockchain technology for use in ExoGames. In this repository, you will find resources and materials to learn and explore various aspects of game development, including the BATARI programming language, Telegram game programming, homebrew games, and much more.
 
